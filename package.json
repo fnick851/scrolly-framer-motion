@@ -1,6 +1,5 @@
 {
-  "name": "scroll-framer-motion",
-  "version": "0.0.0",
+  "name": "scrolly-framer-motion",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
